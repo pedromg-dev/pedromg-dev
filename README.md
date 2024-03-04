@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently working at Petrofac as a Full-Stack developer building an application from scratch based in .NET 8 and CosmoDB
 
+## Portfolio:
+https://pedromg-dev.github.io/portfolio/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pmoyagarcia) 
